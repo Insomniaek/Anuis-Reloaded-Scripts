@@ -1,4 +1,4 @@
-address = {"Olavii", "Elenami", "Lenchan", "Bydo", "Avoniv", "Arami", "Point of Origin"}
+address = {"Olavii", "Elenami", "Lenchan", "Bydo", "Avoniv", "Arami", "Subido"}
 
 c = require("component")
 event = require("event")
