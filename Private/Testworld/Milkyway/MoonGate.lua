@@ -1,4 +1,4 @@
-address = {"Aries", "Auriga", "Crater", "Andromeda", "Aquarius", "Leo Minor", "Point of Origin"}
+address = {"Leo", "Centaurus", "Capricornus", "Canis Minor", "Triangulum", "Sculptor", "Crater", "Sagittarius", "Point of Origin"}
 
 c = require("component")
 event = require("event")
